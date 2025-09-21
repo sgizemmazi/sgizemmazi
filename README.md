@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 ✨ To continue learning new technologies in the frontend field  
 ✨ To develop performance and user experience-focused web applications  
 ✨ To contribute to open source projects  
+
+## 🌱 I’m currently learning  
+✨ Advanced **React** patterns and optimization techniques  
+✨ **Angular** for building scalable applications  
+✨ **Next.js** for server-side rendering and performance  
+✨ Modern UI/UX best practices 
