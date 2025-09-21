@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 My Experience and Expertise Areas  
+
+💻 Development: HTML, CSS, JavaScript.  
+⚡ Framework & Libraries: ReactJS, Next.js, Angular, Tailwind CSS, Bootstrap.  
+📱 Responsive and user-friendly interface development.  
+👥 Sustainable and scalable UI solutions in teamwork.  
