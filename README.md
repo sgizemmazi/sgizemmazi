@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 ⚡ Framework & Libraries: ReactJS, Next.js, Angular, Tailwind CSS, Bootstrap.  
 📱 Responsive and user-friendly interface development.  
 👥 Sustainable and scalable UI solutions in teamwork.  
+
+## 🎯 My Goals  
+✨ To continue learning new technologies in the frontend field  
+✨ To develop performance and user experience-focused web applications  
+✨ To contribute to open source projects  
