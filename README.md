@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm @sgizemmazi 👋🏼
+📫 How to reach me: sgizemmazi@gmail.com
+
 
 <!--
 **sgizemmazi/sgizemmazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
