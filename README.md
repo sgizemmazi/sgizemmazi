@@ -1,5 +1,11 @@
 ## Hi, I'm @sgizemmazi 👋🏼  
 
+<img 
+  align="right" 
+  height="370" 
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0xcTJzdnNjdnp1anE2OWZkNzB6d2tuY2JzN3B1Zng0MTJ0bnZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
+/>
+
 📫 How to reach me: sgizemmazi@gmail.com  
 🔗 Find me on LinkedIn: https://www.linkedin.com/in/sgizemmazi/   
 
