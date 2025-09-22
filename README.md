@@ -2,7 +2,7 @@
 
 <img 
   align="right" 
-  height="370" 
+  height="250" 
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG0xcTJzdnNjdnp1anE2OWZkNzB6d2tuY2JzN3B1Zng0MTJ0bnZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
 />
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ✨ **Next.js** for server-side rendering and performance.  
 ✨ Modern UI/UX best practices.  
 
-### 💻 Tech Stack:
+###  💻 Tech Stack:
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
