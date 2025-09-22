@@ -1,6 +1,6 @@
 ## Hi, I'm @sgizemmazi 👋🏼
 📫 How to reach me: sgizemmazi@gmail.com  
-💼 Find me on LinkedIn: linkedin.com/in/sgizemmazi/  
+🔗 Find me on LinkedIn: https://www.linkedin.com/in/sgizemmazi/   
 
 
 <!--
