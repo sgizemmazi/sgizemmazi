@@ -1,4 +1,5 @@
-## Hi, I'm @sgizemmazi 👋🏼
+## Hi, I'm @sgizemmazi 👋🏼  
+
 📫 How to reach me: sgizemmazi@gmail.com  
 🔗 Find me on LinkedIn: https://www.linkedin.com/in/sgizemmazi/   
 
@@ -17,25 +18,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 My Experience and Expertise Areas  
+### 🚀 My Experience and Expertise Areas  
 
 💻 Development: HTML, CSS, JavaScript.  
 ⚡ Framework & Libraries: ReactJS, Next.js, Angular, Tailwind CSS, Bootstrap.  
 📱 Responsive and user-friendly interface development.  
 👥 Sustainable and scalable UI solutions in teamwork.  
 
-## 🎯 My Goals  
+### 🎯 My Goals  
 ✨ To continue learning new technologies in the frontend field.  
 ✨ To develop performance and user experience-focused web applications.  
 ✨ To contribute to open source projects.  
 
-## 🌱 I’m currently learning  
+### 🌱 I’m currently learning  
 ✨ Advanced **React** patterns and optimization techniques.  
 ✨ **Angular** for building scalable applications.  
 ✨ **Next.js** for server-side rendering and performance.  
 ✨ Modern UI/UX best practices.  
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -48,7 +49,4 @@ Here are some ideas to get you started:
 #### ⚡ Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
