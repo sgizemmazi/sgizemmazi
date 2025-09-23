@@ -56,3 +56,9 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+<div >
+   <img src="https://github-readme-stats.vercel.app/api?username=sgizemmazi&theme=darcula&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgizemmazi&theme=darcula&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgizemmazi&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
+  
+</div>
