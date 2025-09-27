@@ -2,7 +2,7 @@
 
 <img 
   align="right" 
-  height="250" 
+  height="150" 
 src="./cat-coding.gif" 
 />
 
