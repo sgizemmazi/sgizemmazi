@@ -62,7 +62,11 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sgizemmazi&theme=tokyo-night)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgizemmazi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgizemmazi&layout=compact&theme=tokyonight" />
+</p>
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sgizemmazi&theme=github-compact)
