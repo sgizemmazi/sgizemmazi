@@ -62,18 +62,6 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats
+## 📈 Activity Graph
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sgizemmazi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgizemmazi&layout=compact&theme=radical)
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgizemmazi&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sgizemmazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sgizemmazi&theme=tokyonight"/>
-</p>
-![GitHub Streak](https://streak-stats.demolab.com?user=sgizemmazi&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sgizemmazi&theme=github-compact)
