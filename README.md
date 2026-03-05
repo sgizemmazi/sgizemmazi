@@ -61,3 +61,10 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sgizemmazi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgizemmazi&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sgizemmazi&theme=radical)
